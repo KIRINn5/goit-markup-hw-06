@@ -663,7 +663,7 @@ img {
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background-color: var(--green-color);
+  background-color: var(--ocean-color);
 }
 
 .footer-subscribe-icon {
